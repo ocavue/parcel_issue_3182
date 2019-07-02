@@ -1,0 +1,13 @@
+{
+  "name": "parcel_issue_vue_hmr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ocavue <ocavue@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
